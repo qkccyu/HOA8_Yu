@@ -1,0 +1,6 @@
+[nagios4_Ubuntu]
+192.168.56.102  ansible_python_interpreter=/usr/bin/python3
+
+[nagios_CentOS]
+192.168.56.104  ansible_python_interpreter=/usr/bin/python
+
